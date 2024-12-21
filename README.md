@@ -1,1 +1,1 @@
-# easy-bank-configs
+# easy-bank-configs v1
